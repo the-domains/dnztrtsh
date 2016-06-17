@@ -1,6 +1,6 @@
 name: dnztrtsh
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.49082
 typography_spectrum: 0
 title: dnztrtsh
 cta:
@@ -24,6 +24,6 @@ color:
     - '#614949'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.5
+  saturation: 1
   rhythmicContrast: 0
 purpose: []
